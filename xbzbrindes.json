@@ -1,0 +1,1452 @@
+{
+     "produtos":
+ [
+     {
+         "nome": "canetasPlasticas",
+          "canetasPlasticas":
+    [
+    {
+     "id": 100,
+     "nome": "CÓD. 3011",
+    "img": "https://www.xbzbrindes.com.br/img/produtos/3/3011D_d1.jpg"
+     }
+
+    {
+      "id": 101,
+      "nome": "CÓD. 320",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/320P_d1.jpg"
+    },
+    {
+      "id": 102,
+      "nome": "CÓD. 5095",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/713_d1.jpg"
+    },
+    {
+      "id": 103,
+      "nome": "CÓD. 12187",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/Caneta-Plastica-197d1-1630932582.jpg"
+    },
+    {
+      "id": 104,
+      "nome": "CANETA RECICLAVEL",
+      "img": "https://images.tcdn.com.br/img/img_prod/458691/canetas_de_papelao_personalizadas_1021_2_20200227154914.jpg"
+    },
+    {
+      "id": 105,
+      "nome": "CÓD. 445",
+      "img": "NAO ACHEI"
+    },
+    {
+      "id": 106,
+      "nome": "CÓD. 3017",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/3017D_d1.jpg"
+    },
+    {
+      "id": 107,
+      "nome": "CÓD. 3017-B",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/Caneta-Plastica-723d1-1480010107.jpg"
+    },
+    {
+      "id": 108,
+      "nome": "CÓD. 7890",
+      "img": "NAO ACHEI"
+    },
+    {
+      "id": 109,
+      "nome": "CÓD. 3205",
+      "img": "NAO ACHEI"
+    },
+    {
+      "id": 110,
+      "nome": "CÓD. 6188",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/713_d1.jpg"
+    },
+    {
+      "id": 111,
+      "nome": "CÓD. 957",
+      "img": "https://www.capitalbrindes.com.br/wp-content/uploads/2017/09/caneta_plastica_mode67-600x600.jpg"
+    },
+    {
+      "id": 112,
+      "nome": "CÓD. 5133",
+      "img": "https://www.xbzbrindes.com.br/img/produtos/3/Caneta-Plastica-458d1-1600091453.jpg"
+    },
+    {
+      "id": 113,
+      "nome": "CÓD. 315",
+      "img": "https://www.msnbrindes.com/uploads/produtos/grande/img4_1378386780.JPEG"
+    },
+    {
+      "id": 114,
+      "nome": "CÓD. 992",
+      "img": "NAO ACHEI"
+    }
+  ]
+},
+
+{
+  "nome": "canetasDeMetalGravadasALaser",
+  "canetasDeMetalGravadasALaser": [
+    {
+      "id": 200,
+      "nome": "CÓD. GB 001",
+      "img": ""
+    },
+
+    {
+      "id": 201,
+      "nome": "CÓD. GB 002 TOUCH SCREEN",
+      "img": ""
+    },
+    {
+      "id": 202,
+      "nome": "CÓD. GB 003",
+      "img": ""
+    },
+    {
+      "id": 203,
+      "nome": "CÓD. 006 MARCA TEXTO",
+      "img": ""
+    },
+    {
+      "id": 204,
+      "nome": "CÓD. 5812",
+      "img": ""
+    },
+    {
+      "id": 205,
+      "nome": "CÓD. GB 004 ROLLER",
+      "img": ""
+    },
+    {
+      "id": 206,
+      "nome": "CÓD. 893",
+      "img": ""
+    },
+    {
+      "id": 207,
+      "nome": "CÓD. GB 005 TUBO COM CANETA",
+      "img": ""
+    },
+    {
+      "id": 208,
+      "nome": "CANETA E LAPISEIRA CÓD. 007",
+      "img": ""
+    },
+    {
+      "id": 209,
+      "nome": "CANETA E LAPISEIRA CÓD. 008",
+      "img": ""
+    },
+    {
+      "id": 210,
+      "nome": "CANETA METAL ACABAMENTO CORTIÇA COM EMBALAGEM ARTE GRAVADA LASER",
+      "img": ""
+    },
+    {
+      "id": 211,
+      "nome": "KIT EXECUTIVO 3 GRAVADO A LASER (PORTA CARTÃO, CHAVEIRO E CANETA DE METAL)",
+      "img": ""
+    },
+    {
+      "id": 212,
+      "nome": "KIT EXECUTIVO 3 PEÇAS CÓD.998",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "chaveiros",
+  "chaveiros": [
+    {
+      "id": 300,
+      "nome": "ANZOL",
+      "img": ""
+    },
+    {
+      "id": 301,
+      "nome": "ABRIDOR ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 302,
+      "nome": "ABRIDOR COWTRY",
+      "img": ""
+    },
+    {
+      "id": 303,
+      "nome": "MOSQUETÃO DUPLA FACE",
+      "img": ""
+    },
+    {
+      "id": 304,
+      "nome": "CHAVEIRO CORAÇÃO EXECUTIVO",
+      "img": ""
+    },
+    {
+      "id": 305,
+      "nome": "PELICANO",
+      "img": ""
+    },
+    {
+      "id": 306,
+      "nome": "BOMBA GASOLINA",
+      "img": ""
+    },
+    {
+      "id": 307,
+      "nome": "CORTADOR DE UNHA C/ ABRIDOR",
+      "img": ""
+    },
+    {
+      "id": 308,
+      "nome": "CADEADO DUPLA FACE",
+      "img": ""
+    },
+    {
+      "id": 309,
+      "nome": "GIRA-GIRA 69",
+      "img": ""
+    },
+    {
+      "id": 310,
+      "nome": "ABRIDOR TORTO",
+      "img": ""
+    },
+    {
+      "id": 311,
+      "nome": "ABRIDOR MINI FLEX",
+      "img": ""
+    },
+    {
+      "id": 312,
+      "nome": "CHAVEIRO METAL RETANGULAR",
+      "img": ""
+    },
+    {
+      "id": 313,
+      "nome": "CHAVEIRO METAL CÓD. 347 GRAVADO LASER ",
+      "img": ""
+    },
+    {
+      "id": 314,
+      "nome": "CHAVEIRO CÓD. 398",
+      "img": ""
+    },
+    {
+      "id": 315,
+      "nome": "CHAVEIRO ABRIDOR CÓD. MS 47",
+      "img": ""
+    },
+    {
+      "id": 316,
+      "nome": "CHAVEIRO ABRIDOR",
+      "img": ""
+    },
+    {
+      "id": 317,
+      "nome": "CHAVEIRO JOGADOR",
+      "img": ""
+    },
+    {
+      "id": 318,
+      "nome": "CHAVEIRO CABEÇA DE CAVALO",
+      "img": ""
+    },
+    {
+      "id": 319,
+      "nome": "CHAVEIRO PNEU DE CARRO ",
+      "img": ""
+    },
+    {
+      "id": 320,
+      "nome": "CHAVEIRO CARRINHO DE SUPERMECADO",
+      "img": ""
+    },
+    {
+      "id": 321,
+      "nome": "CHAVEIRO NOSSA SENHORA APARECIDA",
+      "img": ""
+    },
+    {
+      "id": 322,
+      "nome": "CHAVEIRO OSSO CACHORRO",
+      "img": ""
+    },
+    {
+      "id": 323,
+      "nome": "CHAVEIRO CAMINHÃO GRAVADO LASER",
+      "img": ""
+    },
+    {
+      "id": 324,
+      "nome": "CHAVEIRO COURO",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "canecasCoposETermicas",
+  "canecasCoposETermicas": [
+    {
+      "id": 400,
+      "nome": "PORTA LATA PALITO 269ML",
+      "img": ""
+    },
+    {
+      "id": 401,
+      "nome": "CANECA DE CHOP DE ALUMÍNIO",
+      "img": ""
+    },
+    {
+      "id": 402,
+      "nome": "COPO TÉRMICO DE ALUMÍNIO",
+      "img": ""
+    },
+    {
+      "id": 403,
+      "nome": "CANECA DE CHOP 300ML OU 500ML",
+      "img": ""
+    },
+    {
+      "id": 404,
+      "nome": "CANECA DE CHOP COM GEL 500ML",
+      "img": ""
+    },
+    {
+      "id": 405,
+      "nome": "TAÇA",
+      "img": ""
+    },
+    {
+      "id": 406,
+      "nome": "TAÇA METALIZADA",
+      "img": ""
+    },
+    {
+      "id": 407,
+      "nome": "COPO LONGO DRINK",
+      "img": ""
+    },
+    {
+      "id": 408,
+      "nome": "COPO LONG DRINK 360°",
+      "img": ""
+    },
+    {
+      "id": 409,
+      "nome": "COPO LONG METALIZADO",
+      "img": ""
+    },
+    {
+      "id": 410,
+      "nome": "COPO ECOLOGICO 360°",
+      "img": ""
+    },
+    {
+      "id": 411,
+      "nome": "CANECA PORCELANA",
+      "img": ""
+    },
+    {
+      "id": 412,
+      "nome": "SQUEEZE 550ML",
+      "img": ""
+    },
+    {
+      "id": 413,
+      "nome": "SQUEEZE ALUMÍNIO",
+      "img": ""
+    },
+    {
+      "id": 414,
+      "nome": "CALDERETA",
+      "img": ""
+    },
+    {
+      "id": 415,
+      "nome": "PORTA LATA NEOPRENE 350ML",
+      "img": ""
+    },
+    {
+      "id": 416,
+      "nome": "PORTA LITRINHO 300ML",
+      "img": ""
+    },
+    {
+      "id": 417,
+      "nome": "PORTA GARRAFA 600ML",
+      "img": ""
+    },
+    {
+      "id": 418,
+      "nome": "COOLER",
+      "img": ""
+    },
+    {
+      "id": 419,
+      "nome": "CAIXA TÉRMICA PERSONALIZADA 50 - 70 - 100 - 200 E 380 LITROS",
+      "img": ""
+    },
+    {
+      "id": 420,
+      "nome": "CAIXA TÉRMICA PERSINALIZADA 2 TAMPAS 50 - 70 - 100 - 200 E 380 LITROS",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "kitChurrasco",
+  "kitChurrasco": [
+    {
+      "id": 500,
+      "nome": "CANIVETE AUTOMATICO ESPINGARDA CABO DE MADEIRA",
+      "img": ""
+    },
+    {
+      "id": 501,
+      "nome": "CANIVETE MULTI FUNÇÕES GRAVADO A LASER",
+      "img": ""
+    },
+    {
+      "id": 502,
+      "nome": "KIT MALETA 2 PEÇAS CÓD. 7447",
+      "img": ""
+    },
+    {
+      "id": 503,
+      "nome": "FACA CHAIRA E BAINHA",
+      "img": ""
+    },
+    {
+      "id": 504,
+      "nome": "KIT FACA E GARFO TRAMONTINA",
+      "img": ""
+    },
+    {
+      "id": 505,
+      "nome": "KIT TALHERES PARA CHURRASCO COM 8 PEÇAS CÓD. 12089",
+      "img": ""
+    },
+    {
+      "id": 506,
+      "nome": "KIT MALETA 3 PEÇAS CÓD. 2759",
+      "img": ""
+    },
+    {
+      "id": 507,
+      "nome": "KIT MALETA 4 PEÇAS CÓD. 1644",
+      "img": ""
+    },
+    {
+      "id": 508,
+      "nome": "KIT CHURRASCO 7 PEÇAS CÓD. 12071",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "trofeuDeAcrilico",
+  "trofeuDeAcrilico": [
+    {
+      "id": 600,
+      "nome": "",
+      "img": ""
+    },
+    {
+      "id": 601,
+      "nome": "",
+      "img": ""
+    },
+    {
+      "id": 602,
+      "nome": "",
+      "img": ""
+    },
+    {
+      "id": 603,
+      "nome": "",
+      "img": ""
+    },
+    {
+      "id": 604,
+      "nome": "",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "relogios",
+  "relogios": [
+    {
+      "id": 700,
+      "nome": "RELÓGIO REDONDO",
+      "img": ""
+    },
+    {
+      "id": 701,
+      "nome": "RELÓGIO SOCIAL",
+      "img": ""
+    },
+    {
+      "id": 702,
+      "nome": "RELÓGIO QUADRADO",
+      "img": ""
+    },
+    {
+      "id": 703,
+      "nome": "RELÓGIO FLEX",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "pendrives",
+  "pendrives": [
+    {
+      "id": 800,
+      "nome": "CHAVEIRO COURO COM PEN DRIVE 8GB E 16GB",
+      "img": ""
+    },
+    {
+      "id": "",
+      "nome": "PEN DRIVE MODELO CORRENTE GRAVADO A LASER 8GB E 16GB",
+      "img": ""
+    },
+    {
+      "id": 801,
+      "nome": "PEN DRIVE GIRATÓRIO GRAAVDO A LASER 8GB E 16GB",
+      "img": ""
+    },
+    {
+      "id": 802,
+      "nome": "CARTÃO PEN DRIVE 8GB E 16GB",
+      "img": ""
+    },
+    {
+      "id": 803,
+      "nome": "PEN DRIVE MODELO PICUÁ GRAVADO 8GB E 16GB",
+      "img": ""
+    },
+    {
+      "id": 804,
+      "nome": "PEN DRIVE BAMBU",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "carteirasEPortaDocumentos",
+  "carteirasEPortaDocumentos": [
+    {
+      "id": 900,
+      "nome": "PORTA CNH E CARTÃO DE CREDITO",
+      "img": ""
+    },
+    {
+      "id": 901,
+      "nome": "PORTA CARTEIRA DE TRABALHO",
+      "img": ""
+    },
+    {
+      "id": 902,
+      "nome": "PORTA DOCUMENTOS",
+      "img": ""
+    },
+    {
+      "id": 903,
+      "nome": "KIT CHAVEIRO DE COURO COM PORTA DOCUMENTO",
+      "img": ""
+    },
+    {
+      "id": 904,
+      "nome": "PORTA DOCUMENTOS",
+      "img": ""
+    },
+    {
+      "id": 905,
+      "nome": "PORTA CARTÃO DE VISITAS GRAVADO A LASER",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "papelaria",
+
+  "papelaria": [
+    {
+      "id": 1000,
+      "nome": "RÉGUA INÓX 25CM ARTE IMPRESSÃO DIGITAL ACABAMENTO RESINADO",
+      "img": ""
+    },
+    {
+      "id": 1001,
+      "nome": "RÉGUAS DE PLASTICO DE 20CM E 30CM ARTE PINTADA",
+      "img": ""
+    },
+    {
+      "id": 1002,
+      "nome": "PORTA LÁPIS QUADRADO EM ACRÍLICO",
+      "img": ""
+    },
+    {
+      "id": 1003,
+      "nome": "CALCULADORA PLASTICA DE 8 DIGITOS COM BORDAS EMBORRACHADAS EM RELEVO",
+      "img": ""
+    },
+    {
+      "id": 1004,
+      "nome": "CALCULADORA COM TAMPA",
+      "img": ""
+    },
+    {
+      "id": 1005,
+      "nome": "PORTA CHAVES",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "mochilasESacolinhas",
+  "mochilasESacolinhas": [
+    {
+      "id": 1100,
+      "nome": "SACOLINHAS CÓD. GB 01",
+      "img": ""
+    },
+    {
+      "id": 1101,
+      "nome": "SACOLINHAS CÓD. GB 02",
+      "img": ""
+    },
+    {
+      "id": 1102,
+      "nome": "MALOTE",
+      "img": ""
+    },
+    {
+      "id": 1103,
+      "nome": "NECESSAIRE",
+      "img": ""
+    },
+    {
+      "id": 1104,
+      "nome": "BOLSA TÉRMICA",
+      "img": ""
+    },
+    {
+      "id": 1105,
+      "nome": "MOCHILA NYLON POLIESTER CÓD. 2066",
+      "img": ""
+    },
+    {
+      "id": 1106,
+      "nome": "MOCHILA NYLON POLIESTER CÓD. 2067",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "bonesPintados",
+
+  "bonesPintados": [
+    {
+      "id": 1201,
+      "nome": "BONÉ FRONTAL PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1202,
+      "nome": "BONÉ FRONTAL PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1203,
+      "nome": "BONÉ CICLISTA PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1204,
+      "nome": "BONÉ CICLISTA PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1205,
+      "nome": "BONÉ 6 GOMOS PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1206,
+      "nome": "BONÉ 6 GOMOS PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1207,
+      "nome": "BONÉ AMERICANO PINTADO",
+      "img": ""
+    },
+    {
+      "id": 1208,
+      "nome": "BONÉ AMERICANO PINTADO DEBRUM NA ABA",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "bonesDeBrimComTelaAtrasEEspumaInternaComArteBordada",
+
+  "bonesDeBrimComTelaAtrasEEspumaInternaComArteBordada": [
+    {
+      "id": 1300,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1301,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1302,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1303,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1304,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1305,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1306,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1307,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1308,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1309,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1310,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    },
+    {
+      "id": 1311,
+      "nome": "BONÉS COM TELA ATRÁS",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "bonesBordadosEChapeus",
+  "bonesBordadosEChapeus": [
+    {
+      "id": 1400,
+      "nome": "BONÉ 6 GOMES BODADO",
+      "img": ""
+    },
+    {
+      "id": 1401,
+      "nome": "BOMÉ 6 GOMOS BORDADO COM SANDUICHE NA ABA",
+      "img": ""
+    },
+    {
+      "id": 1402,
+      "nome": "BONÉS CICLISTA BORDADO",
+      "img": ""
+    },
+    {
+      "id": 1403,
+      "nome": "BONÉS CICLISTA BORDADO",
+      "img": ""
+    },
+    {
+      "id": 1404,
+      "nome": "BONÉS FRONTAL BORDADO",
+      "img": ""
+    },
+    {
+      "id": 1405,
+      "nome": "BONÉS FRONTAL BORDADO COM SANDUICHE NA ABA",
+      "img": ""
+    },
+    {
+      "id": 1406,
+      "nome": "CHAPÉU AUSTRALIANO",
+      "img": ""
+    },
+    {
+      "id": 1407,
+      "nome": "CHAPÉU AUSTRALIANO",
+      "img": ""
+    },
+    {
+      "id": 1408,
+      "nome": "CHAPÉU AUSTRALIANO",
+      "img": ""
+    },
+    {
+      "id": 1409,
+      "nome": "CHAPÉU PROTETOR AUSTRALIANO DE NUCA",
+      "img": ""
+    },
+    {
+      "id": 1410,
+      "nome": "BONÉ COM PROTEÇÃO DE NUCA",
+      "img": ""
+    },
+    {
+      "id": 1411,
+      "nome": "SOCIAL JUTA MARROM",
+      "img": ""
+    },
+    {
+      "id": 1412,
+      "nome": "SOCIAL JUTA MARROM COM FORRO NA ABA",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "camisetas",
+  "camisetas": [
+    {
+      "id": 1500,
+      "nome": "MANGA CURTA GOLA V PINTADA",
+      "img": ""
+    },
+    {
+      "id": 1501,
+      "nome": "GOLA REDONDA BORDADA",
+      "img": ""
+    },
+    {
+      "id": 1502,
+      "nome": "GOLA POLO BORDADA",
+      "img": ""
+    },
+    {
+      "id": 1503,
+      "nome": "MANGA CURTA GOLA V BORDADA",
+      "img": ""
+    },
+    {
+      "id": 1504,
+      "nome": "GOLA REDONDA BORDADA",
+      "img": ""
+    },
+    {
+      "id": 1505,
+      "nome": "MANGA LONGA COM PUNHO",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "sacolasBocaDePalhacoPersonalizada",
+
+  "sacolasBocaDePalhacoPersonalizada": [
+    {
+      "id": 1600,
+      "nome": "SACOLA BOCA DE PALHAÇO PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1601,
+      "nome": "SACOLA BOCA DE PALHAÇO PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1602,
+      "nome": "SACOLA BOCA DE PALHAÇO PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1603,
+      "nome": "SACOLA BOCA DE PALHAÇO PERSONALIZADA",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "sacolasAlcaCamisetaPersonalizada",
+  "sacolasAlcaCamisetaPersonalizada": [
+    {
+      "id": 1700,
+      "nome": "SACOLAS ALÇA CAMISETA PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1701,
+      "nome": "SACOLAS ALÇA CAMISETA PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1702,
+      "nome": "SACOLAS ALÇA CAMISETA PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1703,
+      "nome": "SACOLAS ALÇA CAMISETA PERSONALIZADA",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "linhaFeminia",
+  "linhaFeminina": [
+    {
+      "id": 1800,
+      "nome": "PORTA BATOM DE METAL",
+      "img": ""
+    },
+    {
+      "id": 1801,
+      "nome": "ESPELHO DUPLO METAL",
+      "img": ""
+    },
+    {
+      "id": 1802,
+      "nome": "PORTA COMPRIMIDO PLÁSTICO DE CORAÇÃO CÓD. 13733",
+      "img": ""
+    },
+    {
+      "id": 1803,
+      "nome": "PORTA BOLSA GRAVADO A LASER",
+      "img": ""
+    },
+    {
+      "id": 1804,
+      "nome": "KIT COM PINCEIS PARA MAQUIAGEM",
+      "img": ""
+    },
+    {
+      "id": 1805,
+      "nome": "KIT PINCEIS CÓD. 138319-T",
+      "img": ""
+    },
+    {
+      "id": 1806,
+      "nome": "KIT MANICURE 15 PEÇAS CÓD. 127",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "diversosBrindes",
+  "diversosBrindes": [
+    {
+      "id": 1900,
+      "nome": "ESTOJO PARA ÓCULOS COM FLANELA",
+      "img": ""
+    },
+    {
+      "id": 1901,
+      "nome": "PORTA ÓCULOS",
+      "img": ""
+    },
+    {
+      "id": 1902,
+      "nome": "KIT MASCULINO 12 PEÇAS CÓD. 5124",
+      "img": ""
+    },
+    {
+      "id": 1903,
+      "nome": "CHURRASQUEIRA PERSONALIZADA",
+      "img": ""
+    },
+    {
+      "id": 1904,
+      "nome": "CORNETA",
+      "img": ""
+    },
+    {
+      "id": 1905,
+      "nome": "TRENAS",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "imasDeGeladeiraComCalendarioTam15x8cm",
+  "imasDeGeladeiraComCalendarioTam15x8cm": [
+    {
+      "id": 2000,
+      "nome": "IMÃS DE GELADEIRA COM CALCULADORA TAM 15X8CM",
+      "img": ""
+    },
+    {
+      "id": 2001,
+      "nome": "IMÃS DE GELADEIRA COM CALCULADORA TAM 15X8CM",
+      "img": ""
+    },
+    {
+      "id": 2002,
+      "nome": "IMÃS DE GELADEIRA COM CALCULADORA TAM 15X8CM",
+      "img": ""
+    },
+    {
+      "id": 2003,
+      "nome": "IMÃS DE GELADEIRA COM CALCULADORA TAM 15X8CM",
+      "img": ""
+    },
+    {
+      "id": 2004,
+      "nome": "IMÃS DE GELADEIRA COM CALCULADORA TAM 15X8CM",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "imasDeGeladeirasComCalendarioTam5x4cm",
+  "imasDeGeladeirasComCalendarioTam5x4cm": [
+    {
+      "id": 2100,
+      "nome": "IMÃS DE GELADEIRA COM CALENDARIO TAM 5X4CM",
+      "img": ""
+    },
+    {
+      "id": 2101,
+      "nome": "IMÃS DE GELADEIRA COM CALENDARIO TAM 5X4CM",
+      "img": ""
+    },
+    {
+      "id": 2102,
+      "nome": "IMÃS DE GELADEIRA COM CALENDARIO TAM 5X4CM",
+      "img": ""
+    },
+    {
+      "id": 2103,
+      "nome": "IMÃS DE GELADEIRA COM CALENDARIO TAM 5X4CM",
+      "img": ""
+    },
+    {
+      "id": 2104,
+      "nome": "IMÃS DE GELADEIRA COM CALENDARIO TAM 5X4CM",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "imasDeGeladeiraRecorteNoFormato",
+  "imasDeGeladeiraRecorteNoFormato": [
+    {
+      "id": 2200,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2201,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2202,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2203,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2204,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2205,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2206,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2207,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2208,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2209,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2210,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2211,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2212,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2213,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    },
+    {
+      "id": 2214,
+      "nome": "IMÃS DE GELADEIRA RECORTE NO FORMATO",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "folinhasFormato4Tam43x31cm",
+  "folinhasFormato4Tam43x31cm": [
+    {
+      "id": 2300,
+      "nome": "CÓD. GF 123",
+      "img": ""
+    },
+    {
+      "id": 2301,
+      "nome": "CÓD. GF 124",
+      "img": ""
+    },
+    {
+      "id": 2302,
+      "nome": "CÓD. GF 125",
+      "img": ""
+    },
+    {
+      "id": 2303,
+      "nome": "CÓD. GF 126",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "folinhasFormato5Tam43x31cm",
+  "folinhasFormato5Tam43x31cm": [
+    {
+      "id": 2400,
+      "nome": "CÓD. GF 173",
+      "img": ""
+    },
+    {
+      "id": 2401,
+      "nome": "CÓD. GF 174",
+      "img": ""
+    },
+    {
+      "id": 2402,
+      "nome": "CÓD. GF 175",
+      "img": ""
+    },
+    {
+      "id": 2403,
+      "nome": "CÓD. GF 176",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "calendarioDeMesa",
+
+  "calendarioDeMesa": [
+    {
+      "id": 2500,
+      "nome": "CÓD. GF 119",
+      "img": ""
+    },
+    {
+      "id": 2501,
+      "nome": "CÓD. GF 120",
+      "img": ""
+    },
+    {
+      "id": 2502,
+      "nome": "CÓD. GF 121",
+      "img": ""
+    },
+    {
+      "id": 2503,
+      "nome": "CÓD. GF 122",
+      "img": ""
+    },
+    {
+      "id": 2504,
+      "nome": "CÓD. GF 123",
+      "img": ""
+    },
+    {
+      "id": 2506,
+      "nome": "CÓD. GF 124",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "agendas",
+  "agendas": [
+    {
+      "id": 2600,
+      "nome": "CÓD. GF 01",
+      "img": ""
+    },
+    {
+      "id": 2601,
+      "nome": "CÓD. GF 02",
+      "img": ""
+    },
+    {
+      "id": 2602,
+      "nome": "CÓD. GF 03",
+      "img": ""
+    },
+    {
+      "id": 2603,
+      "nome": "CÓD. GF 04",
+      "img": ""
+    },
+    {
+      "id": 2604,
+      "nome": "CÓD. GF 05",
+      "img": ""
+    },
+    {
+      "id": 2605,
+      "nome": "CÓD. GF 06",
+      "img": ""
+    },
+    {
+      "id": 2606,
+      "nome": "CÓD. GF 07",
+      "img": ""
+    },
+    {
+      "id": 2607,
+      "nome": "CÓD. GF 08",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "cadernos",
+  "cadernos": [
+    {
+      "id": 2700,
+      "nome": "CÓD. GF 145",
+      "img": ""
+    },
+    {
+      "id": 2701,
+      "nome": "CÓD. GF 146",
+      "img": ""
+    },
+    {
+      "id": 2702,
+      "nome": "CÓD. GF 147",
+      "img": ""
+    },
+    {
+      "id": 2703,
+      "nome": "CÓD. GF 148",
+      "img": ""
+    },
+    {
+      "id": 2704,
+      "nome": "CÓD. GF 149",
+      "img": ""
+    },
+    {
+      "id": 2705,
+      "nome": "CÓD. GF 150",
+      "img": ""
+    },
+    {
+      "id": 2706,
+      "nome": "CÓD. GF 151",
+      "img": ""
+    },
+    {
+      "id": 2707,
+      "nome": "CÓD. GF 152",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "panfletos",
+  "panfletos": [
+    {
+      "id": 2800,
+      "nome": "CÓD. GF 70",
+      "img": ""
+    },
+    {
+      "id": 2801,
+      "nome": "CÓD. GF 71",
+      "img": ""
+    },
+    {
+      "id": 2802,
+      "nome": "CÓD. GF 72",
+      "img": ""
+    },
+    {
+      "id": 2803,
+      "nome": "CÓD. GF 73",
+      "img": ""
+    },
+    {
+      "id": 2804,
+      "nome": "CÓD. GF 74",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "cadernetas",
+  "cadernetas": [
+    {
+      "id": 2900,
+      "nome": "CÓD. GF 128",
+      "img": "tres imagens "
+    }
+  ]
+},
+{
+  "nome": "cadernetasComAspiral",
+  "cadernetasComAspiral": [
+    {
+      "id": 3000,
+      "nome": "CÓD. GF 154",
+      "img": "tres imagens "
+    }
+  ]
+},
+{
+  "nome": "blocosDeNotas",
+  "blocosDeNotas": [
+    {
+      "id": 3100,
+      "nome": "Bloco de notas personalizado",
+      "img": ""
+    },
+    {
+      "id": 3101,
+      "nome": "Bloco de notas personalizado",
+      "img": ""
+    }
+  ]
+},
+{
+  "nome": "pastas",
+  "pastas": [
+    {
+      "id": 3200,
+      "nome": "CÓD. GF 09",
+      "img": ""
+    },
+    {
+      "id": 3201,
+      "nome": "CÓD. GF 10",
+      "img": ""
+    },
+    {
+      "id": 3202,
+      "nome": "CÓD. GF 11",
+      "img": ""
+    },
+    {
+      "id": 3203,
+      "nome": "CÓD. GF 12",
+      "img": ""
+    },
+    {
+      "id": 3204,
+      "nome": "CÓD. GF 13",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "folders",
+  "folders": [
+    {
+      "id": 3300,
+      "nome": "CÓD. GF 81",
+      "img": ""
+    },
+    {
+      "id": 3301,
+      "nome": "CÓD. GF 82",
+      "img": ""
+    }
+  ]
+},
+
+{
+  "nome": "envelopesPersonalizados",
+  "envelopesPersonalizados": [
+    {
+      "id": 3400,
+      "nome": "CÓD. GF 112",
+      "img": ""
+    },
+    {
+      "id": 3401,
+      "nome": "CÓD. GF 110",
+      "img": ""
+    }
+  ]
+}
+] }
